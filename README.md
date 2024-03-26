@@ -1,4 +1,6 @@
 ### study-of-basic-gates
+Developed by: KEERTHANA S
+RegisterNumber: 212223240070
 
 **AIM:** 
 
@@ -66,15 +68,18 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: KEERTHANA S
- RegisterNumber: 212223240070
- 
+![alt text](4.jpg) 
+
 **Logic symbol & Truthtable**
+![alt text](2.jpg)
+
+![alt text](3.jpg)
 
 **RTL realization Output:** 
+![alt text](1.jpg)
 
 **RTL**
 
 **Result:**
-
+Study of basic gates is sucessfully done.
 
